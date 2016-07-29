@@ -1,0 +1,21 @@
+<!-- Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
+Código: Segundo Exemplo do componente AutoCompleteTextView
+Autor: Márcio Albuquerque
+Email: o.marcio.albu@gmail.com
+Data: Junho/2016
+-->
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Autocomplete" parent="Widget.AppCompat.Light.AutoCompleteTextView">
+        <item name="android:background">@color/amber500</item>
+        <item name="colorControlActivated">@color/ciano500</item>
+    </style>
+</resources>

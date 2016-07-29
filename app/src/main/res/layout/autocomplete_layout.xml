@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
+Código: Terceiro Exemplo do componente AutoCompleteTextView
+Autor: Márcio Albuquerque
+Email: o.marcio.albu@gmail.com
+Data: Junho/2016
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    >
+
+    <!-- Adicionando componente:
+    Imagem, que vai está associada ao texto -->
+    <ImageView
+        android:id="@+id/imaViewMes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        />
+
+    <!-- Adicionando componente:
+    TextView, visualizar um texto do AutoCompleteTextView-->
+    <TextView
+        android:id="@+id/mesTexto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:padding="10dp"
+        />
+
+</LinearLayout>

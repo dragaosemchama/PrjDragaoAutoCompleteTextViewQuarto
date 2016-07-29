@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
+Código: Segundo Exemplo do componente AutoCompleteTextView
+Autor: Márcio Albuquerque
+Email: o.marcio.albu@gmail.com
+Data: Junho/2016
+-->
+<resources>
+    <color name="colorPrimary">#3f3f41</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#913131</color>
+
+    <color name="amber500">#FFC107</color> <!-- Configuração da cor âmbar -->
+    <color name="ciano500">#00BCD4</color> <!-- Configuração da cor ciano -->
+</resources>
