@@ -1,4 +1,4 @@
-// Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
+// Dragão sem Chama: http://dragaosemchama.com.br/2016/10/android-autocompletetextview/
 //Código: Quarto Exemplo do componente AutoCompleteTextView
 //Autor: Márcio Albuquerque
 //Email: o.marcio.albu@gmail.com
@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         // usando os valores contido no arquivo strings.xml.
         String[] MesesVetor = getResources().getStringArray(R.array.MesesLista);
 
-        // Cria uma variável lista para armazenar, o mês e sua imagem
+        // Criar uma variável lista para armazenar, o mês e sua imagem
         List<HashMap<String,String>> armListMesIma =
                 new ArrayList<HashMap<String,String>>();
 
