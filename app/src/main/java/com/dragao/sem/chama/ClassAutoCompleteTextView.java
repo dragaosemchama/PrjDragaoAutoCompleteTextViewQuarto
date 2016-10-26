@@ -1,4 +1,4 @@
-// Dragão sem Chama: http://dragaosemchama.com.br/2016/07/android-autocompletetextview/
+// Dragão sem Chama: http://dragaosemchama.com.br/2016/10/android-autocompletetextview/
 //Código: Quarto Exemplo do componente AutoCompleteTextView
 //Autor: Márcio Albuquerque
 //Email: o.marcio.albu@gmail.com
